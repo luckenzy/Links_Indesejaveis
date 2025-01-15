@@ -1,0 +1,6 @@
+play-fe.googleapis.com
+pangolin16.sgsnssdk.com
+events.ads.vungle.com
+api16-acess-sg-pangle.io
+ssdk-sg.pangle.io
+googleads.g.doubleclick.net
